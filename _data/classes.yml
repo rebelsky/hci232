@@ -1,0 +1,105 @@
+- topic: Getting started
+  abbrev: getting-started
+  summary: | 
+    We begin the class.
+  notes: ../eboards/eboard01
+
+- topic: Design
+  abbrev: design
+  summary: |
+    We consider some important issues in design thinking and iterative 
+    design.
+  reading:
+    - link: How to understand problems
+      subtitle: Amy Ko, _Design Methods_, Chapter 4
+      icon: fa-external-link
+      url: https://faculty.washington.edu/ajko/books/design-methods/#/problems
+    - link: Cognitive, physical, sensory, and functional affordances in interaction design
+      subtitle: Rex Hartson, _Behaviour & Information Technology_ 22:3 (skim)
+      icon: fa-external-link
+      url: https://www.tandfonline.com/doi/abs/10.1080/01449290310001592587
+    - link: A history of interfaces
+      subtitle: Amy Ko, _User Interface Software and Technology_, Chapter 1
+      icon: fa-external-link
+      url: https://faculty.washington.edu/ajko/books/user-interface-software-and-technology/#/history
+    - link: A theory of interfaces
+      subtitle: Amy Ko, _User Interface Software and Technology_, Chapter 2
+      icon: fa-external-link
+      url: https://faculty.washington.edu/ajko/books/user-interface-software-and-technology/#/theory
+    - link: Interface ethics
+      subtitle: Amy Ko, _User Interface Software and Technology_, Chapter 18
+      icon: fa-external-link
+      url: https://faculty.washington.edu/ajko/books/user-interface-software-and-technology/#/ethics
+  notes: ../eboards/eboard02
+
+- topic: Understanding the issues, understanding the user
+  abbrev: understanding
+  summary: |  
+    We begin to consider some of the core issues underlying HCI design
+    and how we understand the users we serve.
+  reading:
+    - page: Norman, <em>The Design of Everyday Things</em>, Chapter 1
+  lab:
+    - page: Poster session
+
+- topic: Accessibility
+  abbrev: accessibility
+  summary: |
+    We explore issues of accessibility as a design topic, as an HCI topic,
+    and as an ethical fundamental.
+
+- topic: Observing users
+  abbrev: observation
+  summary: | 
+    We return to considerations of how one observes and understand users.
+
+- topic: Usability testing (1)
+  abbrev: testing-1
+  summary: |
+    We consider some approaches to usability testing
+
+- topic: Usability testing (2)
+  abbrev: testing-2
+  summary: |
+    We practice usability testing on each other.
+
+- topic: Brainstorming and Ideation
+  abbrev: ideation
+  summary: |
+    We consider how one develops (or might develop) new approaches to 
+    design problems.
+
+- topic: Pause for Breath
+  abbrev: pause-01
+  summary: | 
+    We pause for a moment to consider oustanding issues.
+
+- topic: Prototyping
+  abbrev: prototyping-1
+  summary: |
+    We consider how one might develop prototypes to use in understanding
+    the utility or efficacy of the interfaces we design.
+
+- topic: Prototyping practice and prep
+  abbrev: prototyping-2
+  summary: |
+    We build and explore some prototypes.
+
+- topic: Usability and accessibility heuristics
+  abbrev: heuristics-1
+  summary: |
+    We explore some common heuristics for assessing the usability and/or
+    accessibility of products.
+
+- topic: Current research in HCI
+  abbrev: current-research
+  summary: |
+    We consider some recent papers from the HCI and ACCESS communities.
+
+- topic: Wrapup
+  abbrev: wrapup
+  summary: |
+    We conclude the course.
+
+- topic: Scheduled final
+  abbrev: final
