@@ -1,0 +1,44 @@
+
+- date: 2021-04-02
+  assigned:
+    - page: /investigations/investigation01.html
+
+- date: 2021-04-09
+  assigned:
+    - page: /investigations/investigation02.html
+  due:
+    - page: /investigations/investigation01.html
+
+- date: 2021-04-16
+  assigned:
+    - page: /investigations/investigation03.html
+  due:
+    - page: /investigations/investigation02.html
+
+- date: 2021-04-23
+  assigned:
+    - page: /investigations/investigation04.html
+  due:
+    - page: /investigations/investigation03.html
+
+- date: 2021-04-30
+  assigned:
+    - page: /investigations/investigation05.html
+  due:
+    - page: /investigations/investigation04.html
+
+- date: 2021-05-07
+  assigned:
+    - page: /investigations/investigation06.html
+  due:
+    - page: /investigations/investigation05.html
+
+- date: 2021-05-14
+  assigned:
+    - page: /investigations/investigation07.html
+  due:
+    - page: /investigations/investigation06.html
+
+- date: 2021-05-21
+  due:
+    - page: /investigations/investigation07.html
