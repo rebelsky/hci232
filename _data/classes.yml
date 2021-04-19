@@ -39,29 +39,101 @@
     and how we understand the users we serve.
   reading:
     - page: Norman, <em>The Design of Everyday Things</em>, Chapter 1
+    - link: _Enthonography Fieldguide_
+      subtitle: Stanford d.school.  Read pages 12--15.
+      icon: fa-external-link
+      url: https://dschool.stanford.edu/resources/ethnography-fieldguide
+    - link: Ivan Sutherland Sketchpad Demo (Video)
+      icon: fa-external-link
+      url: https://youtu.be/6orsmFndx_o
   lab:
     - page: Poster session
+  notes: ../eboards/eboard03
 
 - topic: Accessibility
   abbrev: accessibility
   summary: |
     We explore issues of accessibility as a design topic, as an HCI topic,
     and as an ethical fundamental.
+  reading:
+    - link: Accessibility
+      subtitle: Amy Ko, _User Interface Software and Technology_, Chapter 7
+      icon: fa-external-link
+      url: https://faculty.washington.edu/ajko/books/user-interface-software-and-technology/#/accessibility
+    - link: How to Fail at Accessibility
+      subtitle: Trish Ang
+      icon: fa-external-link
+      url: https://slack.engineering/how-to-fail-at-accessibility/
+    - link: A Framework for Inclusive Practices in Higher Education
+      subtitle: Sheryl Burgstahler, Ph.D.
+      icon: fa-external-link
+      url: https://www.washington.edu/doit/framework-inclusive-practices-higher-education
+    - link: Things People with Disabilities Wish You Knew (Video)
+      subtitle: BuzzFeedVideo
+      icon: fa-external-link
+      url: https://www.youtube.com/watch?v=_b7k6pEnyQ4
+    - link: Disability - Ask Us Anything (Video)
+      subtitle: University of Sydney
+      icon: fa-external-link
+      url: https://youtu.be/hR5AGD5-J00
+  notes: ../eboards/eboard04
 
 - topic: Observing users
   abbrev: observation
   summary: | 
     We return to considerations of how one observes and understand users.
-
-- topic: Usability testing (1)
+  lab:
+    - page: Demo session
+  reading:
+    - link: "Ethnographic field methods and their relation to design."
+      subtitle: "Blomberg et al., 1993.  In Schuler and Namoika (eds), <i>Participatory Design: Principles and Practices</i>"
+      icon: fa-external-link
+      url: https://teams.microsoft.com/l/file/b5f87dc0-29b2-4dcf-adf2-80e9397d0f5f?tenantId=524f9e3e-faca-4f64-b3ec-adb2baee8807&fileType=pdf&objectUrl=https%3A%2F%2Fgrinco.sharepoint.com%2Fsites%2Fmsteams_0e5e70%2FShared%20Documents%2FReadings%2FBloomberg-et-al-Ethnographic.pdf&baseUrl=https%3A%2F%2Fgrinco.sharepoint.com%2Fsites%2Fmsteams_0e5e70&serviceName=teams&threadId=19:fb760f2564fb44e1adcf69ff4b4de880@thread.tacv2&messageId=-1&groupId=d003196b-1954-4805-a759-17273e7a225d
+    - link: "Apprenticing with the customer"
+      subtitle: "Beyer and Holtzblatt, in _Communications of the ACM_ 38:5 (May 1995)"
+      icon: fa-external-link
+      url: http://doi.acm.org/10.1145/203356.203365
+    - link: _Enthonography Fieldguide_
+      subtitle: Stanford d.school.
+      icon: fa-external-link
+      url: https://dschool.stanford.edu/resources/ethnography-fieldguide
+  notes: ../eboards/eboard05
+       
+- topic: Understanding users
   abbrev: testing-1
   summary: |
-    We consider some approaches to usability testing
+    We consider some ways to understand users
+  reading: 
+    - link: "Getting to know users and their tasks"
+      subtitle: "Lewis & Rieman (1994).  Chapter 2 of _Task-Centered User Interface Design_"
+      icon: fa-external-link
+      url: http://hcibib.org/tcuid/chap-2.html
+    - link: "Contextual inquiry: Inspire design by observing and interviewing users in their context"
+      subtitle: Salazar (2006).  _Nielsen Norman Group_.
+      icon: fa-external-link
+      url: https://www.nngroup.com/articles/contextual-inquiry/
+    - link: "When the implication is not to design (technology)"
+      subtitle: "Baumer and Silverman (2011).  _CHI '11_."
+      icon: fa-external-link
+      url: https://dl.acm.org/doi/10.1145/1978942.1979275
 
-- topic: Usability testing (2)
-  abbrev: testing-2
+- topic: Personas
+  abbrev: personas
   summary: |
-    We practice usability testing on each other.
+    We consider additional details about personas.
+  reading:
+    - link: "Personas: Practice and Theory"
+      subtitle: Pruitt and Grudin (2003)
+      icon: fa-external-link
+      url: https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/pruitt-grudinold.pdf
+    - link: "The Personas' New Clothes"
+      subtitle: Chapman and Milham (2007).
+      icon: fa-extern-link
+      url: https://cnchapman.files.wordpress.com/2007/03/chapman-milham-personas-hfes2006-0139-0330.pdf
+    - link: "A Closer Look at Personas: What They Are And How They Work"
+      subtitle: Goltz (2014).
+      icon: fa-extern-link
+      url: https://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-1/
 
 - topic: Brainstorming and Ideation
   abbrev: ideation
