@@ -134,39 +134,81 @@
       subtitle: Goltz (2014).
       icon: fa-extern-link
       url: https://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-1/
+  lab:
+    - page: Interviewing practice
+
+- topic: Usability Testing (1)
+  abbrev: usability-1
+  summary: |
+    We consider the basics of usability testing and plan our first
+    usability test.
+  reading:
+    - link: "Usability.gov: Usability testing"
+      icon: fa-extern-link
+      url: https://www.usability.gov/how-to-and-tools/methods/usability-testing.html
+    - link: "Usability.gov: First-click testing"
+      icon: fa-extern-link
+      url: https://www.usability.gov/how-to-and-tools/methods/first-click-testing.html
+    - link: "Usability.gov: Planning a usability test"
+      icon: fa-extern-link
+      url: https://www.usability.gov/how-to-and-tools/methods/planning-usability-testing.html
+    - link: "Usability.gov: Scenarios"
+      icon: fa-extern-link
+      url: https://www.usability.gov/how-to-and-tools/methods/scenarios.html
+    - link: "Usability.gov: Running a usability test"
+      icon: fa-extern-link
+      url: https://www.usability.gov/how-to-and-tools/methods/running-usability-tests.html
+    - link: "Usability.gov: Reporting usability-test results"
+      icon: fa-extern-link
+      url: https://www.usability.gov/how-to-and-tools/methods/reporting-usability-test-results.html
+    - link: "Usability.gov: System Usability Scale (SUS)"
+      icon: fa-extern-link
+      url: https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html
+
+- topic: Usability Testing (2)
+  abbrev: usability-2
+  lab:
+    - page: Usability Testing
+  reading:
+    - link: "The Discipline of Teams"  
+      subtitle: Katzenbach and Smith (1993).  _Harvard Business Review_.
+      url: https://teams.microsoft.com/l/message/19:fb760f2564fb44e1adcf69ff4b4de880@thread.tacv2/1619461952483?tenantId=524f9e3e-faca-4f64-b3ec-adb2baee8807&groupId=d003196b-1954-4805-a759-17273e7a225d&parentMessageId=1619461952483&teamName=HCI-232-01%202021SpT2&channelName=Readings&createdTime=1619461952483
+    - link: "Tips for working successfully in groups"
+      subtitle: Randy Pausch
+      url: https://www.cs.cmu.edu/~pausch/Randy/tipoForGroups.html
+    - link: "Working in Teams"
+      subtitle: Tina Seelig.  Short video.
+      url: https://ecorner.stanford.edu/videos/working-in-teams/
 
 - topic: Brainstorming and Ideation
   abbrev: ideation
   summary: |
     We consider how one develops (or might develop) new approaches to 
     design problems.
+  lab:
+    - page: Ideation
+  reading:
+    - link: "The Perfect Brainstorm"
+      subtitle: Kelley & Littman (2001), _The Art of Innotation_, Ch. 4.
+      url: https://courses.cs.washington.edu/courses/cse440/15wi/readings/Kelley_brainstorm.pdf
 
-- topic: Pause for Breath
-  abbrev: pause-01
-  summary: | 
-    We pause for a moment to consider oustanding issues.
+- topic: Class Visit
+  abbrev: visit
+  summary: |
+    We discuss HCI with an alum in the field.
 
 - topic: Prototyping
   abbrev: prototyping-1
   summary: |
     We consider how one might develop prototypes to use in understanding
-    the utility or efficacy of the interfaces we design.
-
-- topic: Prototyping practice and prep
-  abbrev: prototyping-2
-  summary: |
-    We build and explore some prototypes.
+    the utility or efficacy of the interfaces we design.  We might also
+    practice prototyping.
 
 - topic: Usability and accessibility heuristics
   abbrev: heuristics-1
   summary: |
     We explore some common heuristics for assessing the usability and/or
     accessibility of products.
-
-- topic: Current research in HCI
-  abbrev: current-research
-  summary: |
-    We consider some recent papers from the HCI and ACCESS communities.
 
 - topic: Wrapup
   abbrev: wrapup

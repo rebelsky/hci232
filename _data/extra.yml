@@ -19,26 +19,47 @@
   assigned:
     - page: /investigations/investigation04.html
   due:
+    - link: "Pruitt and Grudin (2003).  Personas: Practice and Theory."
+      url: https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/pruitt-grudinold.pdf
+    - link: Journal 7a - Primary Points
+      url: https://teams.microsoft.com/l/channel/19%3af5cae276f8ac4283a32e43ba54f25612%40thread.tacv2/Journal%2520for%2520Class%252007a%2520-%2520Primary%2520Points?groupId=d003196b-1954-4805-a759-17273e7a225d&tenantId=524f9e3e-faca-4f64-b3ec-adb2baee8807
+    - link:  Task 7 - Box and Room Personas
+      url: https://teams.microsoft.com/l/channel/19%3a3b597a74629d41a78eca3efcd4e8393e%40thread.tacv2/Task%252007%2520-%2520Box%2520and%2520Room%2520Personas?groupId=d003196b-1954-4805-a759-17273e7a225d&tenantId=524f9e3e-faca-4f64-b3ec-adb2baee8807
+
+- date: 2021-04-26
+  due:
     - page: /investigations/investigation03.html
+    - link: Journal 8a - Usability Testing
+      url: https://teams.microsoft.com/l/channel/19%3ab4e10f79e85749afa16a2630f8552c66%40thread.tacv2/Journal%2520for%2520Class%252008a%2520-%2520Usability%2520testing?groupId=d003196b-1954-4805-a759-17273e7a225d&tenantId=524f9e3e-faca-4f64-b3ec-adb2baee8807
+    - link: Task 8 - Sample sites and tasks
+      url: https://teams.microsoft.com/l/channel/19%3ae67ccff6ea9a4f309139e8531844f8eb%40thread.tacv2/Task%25208%2520-%2520Sample%2520sites%2520and%2520tasks?groupId=d003196b-1954-4805-a759-17273e7a225d&tenantId=524f9e3e-faca-4f64-b3ec-adb2baee8807
 
 - date: 2021-04-30
   assigned:
     - page: /investigations/investigation05.html
+  due:
+    - page: Scripts for usability tests
+
+- date: 2021-05-03
   due:
     - page: /investigations/investigation04.html
 
 - date: 2021-05-07
   assigned:
     - page: /investigations/investigation06.html
+
+- date: 2021-05-10
   due:
     - page: /investigations/investigation05.html
 
 - date: 2021-05-14
   assigned:
     - page: /investigations/investigation07.html
+
+- date: 2021-05-17
   due:
     - page: /investigations/investigation06.html
 
-- date: 2021-05-21
+- date: 2021-05-25
   due:
     - page: /investigations/investigation07.html
