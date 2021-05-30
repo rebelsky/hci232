@@ -116,6 +116,7 @@
       subtitle: "Baumer and Silverman (2011).  _CHI '11_."
       icon: fa-external-link
       url: https://dl.acm.org/doi/10.1145/1978942.1979275
+  notes: ../eboards/eboard06
 
 - topic: Personas
   abbrev: personas
@@ -136,6 +137,7 @@
       url: https://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-1/
   lab:
     - page: Interviewing practice
+  notes: ../eboards/eboard07
 
 - topic: Usability Testing (1)
   abbrev: usability-1
@@ -164,6 +166,7 @@
     - link: "Usability.gov: System Usability Scale (SUS)"
       icon: fa-extern-link
       url: https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html
+  notes: ../eboards/eboard08
 
 - topic: Usability Testing (2)
   abbrev: usability-2
@@ -179,6 +182,7 @@
     - link: "Working in Teams"
       subtitle: Tina Seelig.  Short video.
       url: https://ecorner.stanford.edu/videos/working-in-teams/
+  notes: ../eboards/eboard09
 
 - topic: Brainstorming and Ideation
   abbrev: ideation
@@ -191,11 +195,19 @@
     - link: "The Perfect Brainstorm"
       subtitle: Kelley & Littman (2001), _The Art of Innotation_, Ch. 4.
       url: https://courses.cs.washington.edu/courses/cse440/15wi/readings/Kelley_brainstorm.pdf
+    - link: "Pencils Before Pixels: A Primer in Hand-Generated Sketching"
+      subtitle: Baskinger, M. (2008), _ACM Interactions_.
+      url: https://teams.microsoft.com/l/message/19:fb760f2564fb44e1adcf69ff4b4de880@thread.tacv2/1619808619113?tenantId=524f9e3e-faca-4f64-b3ec-adb2baee8807&groupId=d003196b-1954-4805-a759-17273e7a225d&parentMessageId=1619808619113&teamName=HCI-232-01%202021SpT2&channelName=Readings&createdTime=1619808619113
+    - link: "How to Sketch for Better Mobile Experiences"
+      subtitle: Hennigs, L. (2013), _Smashing Magazine_.
+      url: https://www.smashingmagazine.com/2013/06/sketching-for-better-mobile-experiences/
+  notes: ../eboards/eboard10
 
 - topic: Class Visit
   abbrev: visit
   summary: |
     We discuss HCI with an alum in the field.
+  notes: ../eboards/eboard11
 
 - topic: Prototyping
   abbrev: prototyping-1
@@ -203,17 +215,52 @@
     We consider how one might develop prototypes to use in understanding
     the utility or efficacy of the interfaces we design.  We might also
     practice prototyping.
+  lab: 
+    - page: Prototyping
+  reading:
+    - link: "Prototyping for tiny fingers"
+      subtitle: Retting, M. (April 1994)
+      url: https://dl.acm.org/doi/10.1145/175276.175288
+    - link: "What do prototypes prototype?"
+      subtitle: House, S. & Hill, C. (1997)
+      url: https://hci.stanford.edu/courses/cs247/2012/readings/WhatDoPrototypesPrototype.pdf
+    - link: "Getting the right design and the design right: Testing many is better than one"
+      subtitle: Tohidi, M., Buxton, W., Baecker, R., and Sellen, A. (2006). _CHI 2006 Proceedings_, pp. 1243--1252
+      url: https://www.billbuxton.com/rightDesign.pdf
+    - link: "Paper prototyping: Blood test kiosk (video)"
+      url: https://www.youtube.com/watch?v=_g4GGtJ8NCY
+  notes: ../eboards/eboard12
 
 - topic: Usability and accessibility heuristics
   abbrev: heuristics-1
   summary: |
-    We explore some common heuristics for assessing the usability and/or
-    accessibility of products.
+    We consider how one applies heursitics and explore some common 
+    heuristics for assessing the usability and/or accessibility 
+    of products.  
+  lab:
+    - page: Testing prototypes
+  reading:
+    - link: How to conduct a heuristic evaluation
+      subtitle: Nielsen, J. (1994)
+      url: https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/
+    - link: 10 Usability heuristics for user interface design
+      subtitle: Nielsen, J. (1994)
+      url: https://www.nngroup.com/articles/ten-usability-heuristics/
+    - link: Fitts's Law
+      subtitle: Kane, L. (n.d.) (video)
+      url: https://www.nngroup.com/videos/fittss-law/
 
 - topic: Wrapup
   abbrev: wrapup
   summary: |
     We conclude the course.
+  reading:
+    - link: Psychological aspects of instrument Display I
+      subtitle: Fitts (1947) (skim)
+      url: https://apps.dtic.mil/dtic/tr/fulltext/u2/a800143.pdf
+    - link: Targeting the Fitts Law
+      subtitle: Thimbleby (2013) (optional)
+      url: https://dl.acm.org/doi/10.1145/2405716.2405720
 
 - topic: Scheduled final
   abbrev: final

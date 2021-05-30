@@ -35,31 +35,47 @@
       url: https://teams.microsoft.com/l/channel/19%3ae67ccff6ea9a4f309139e8531844f8eb%40thread.tacv2/Task%25208%2520-%2520Sample%2520sites%2520and%2520tasks?groupId=d003196b-1954-4805-a759-17273e7a225d&tenantId=524f9e3e-faca-4f64-b3ec-adb2baee8807
 
 - date: 2021-04-30
-  assigned:
-    - page: /investigations/investigation05.html
   due:
     - page: Scripts for usability tests
 
 - date: 2021-05-03
+  assigned:
+    - page: /investigations/investigation05.html
   due:
     - page: /investigations/investigation04.html
+    - link: Journal 10 - Brainstorming, Ideation, and Sketching
+      url: https://teams.microsoft.com/l/channel/19%3a073e757e54eb4c2b8a9c53bed331c26d%40thread.tacv2/Journal%2520for%2520Class%252010%2520-%2520Ideation%2520and%2520Sketching?groupId=d003196b-1954-4805-a759-17273e7a225d&tenantId=524f9e3e-faca-4f64-b3ec-adb2baee8807
+    - link: Task 10 - Posing Problems
+      url: https://teams.microsoft.com/l/channel/19%3a26f0009a16724f95bdca303c0b2cd799%40thread.tacv2/Task%2520for%2520Class%252010%2520-%2520Posing%2520Problems?groupId=d003196b-1954-4805-a759-17273e7a225d&tenantId=524f9e3e-faca-4f64-b3ec-adb2baee8807
 
 - date: 2021-05-07
   assigned:
     - page: /investigations/investigation06.html
-
-- date: 2021-05-10
   due:
     - page: /investigations/investigation05.html
 
+- date: 2021-05-10
+  due:
+    - link: Journal 12a - Types of Prototypes
+      url: https://teams.microsoft.com/l/channel/19%3a9f60057030ef4a488c211c3e7ffe8a76%40thread.tacv2/Journal%2520for%2520Class%252012a%2520-%2520Types%2520of%2520Prototypes?groupId=d003196b-1954-4805-a759-17273e7a225d&tenantId=524f9e3e-faca-4f64-b3ec-adb2baee8807
+    - link: Journal 12b - Key Points
+      url: https://teams.microsoft.com/l/channel/19%3a6f29aecadadc48138722b6a54c4bf67f%40thread.tacv2/Journal%2520for%2520Class%252012b%2520-%2520Key%2520Points?groupId=d003196b-1954-4805-a759-17273e7a225d&tenantId=524f9e3e-faca-4f64-b3ec-adb2baee8807
+
 - date: 2021-05-14
-  assigned:
-    - page: /investigations/investigation07.html
+  due:
+    - link: Journal 13 - Heuristics
+      url: https://teams.microsoft.com/l/channel/19%3a7655a3a4a7924603ae599b2d6068d281%40thread.tacv2/Journal%2520for%2520Class%252013%2520-%2520Primary%2520Points?groupId=d003196b-1954-4805-a759-17273e7a225d&tenantId=524f9e3e-faca-4f64-b3ec-adb2baee8807
+    - link: Task 13 - Heuristics
+      urll: https://teams.microsoft.com/l/channel/19%3aca32f90a32c144638051e0edde3bb356%40thread.tacv2/Task%252013%2520-%2520Heuristics%2520(due%25202021-05-10)?groupId=d003196b-1954-4805-a759-17273e7a225d&tenantId=524f9e3e-faca-4f64-b3ec-adb2baee8807
 
 - date: 2021-05-17
   due:
-    - page: /investigations/investigation06.html
+    - link: Journal 14 - Fitts
+      url: https://teams.microsoft.com/l/channel/19%3add80d6c0a0de4599bdc117f2053660fc%40thread.tacv2/Journal%2520for%2520Class%252014%2520-%2520Interesting%2520Tidbits?groupId=d003196b-1954-4805-a759-17273e7a225d&tenantId=524f9e3e-faca-4f64-b3ec-adb2baee8807
+    - link: Task 14 - Apply Usabilith Heuristics
+      url: https://teams.microsoft.com/l/channel/19%3a579b93a9ebc947ec8d36ec97bdf66ec6%40thread.tacv2/Task%252014%2520-%2520Applying%2520Heuristics?groupId=d003196b-1954-4805-a759-17273e7a225d&tenantId=524f9e3e-faca-4f64-b3ec-adb2baee8807
 
-- date: 2021-05-25
+
+- date: 2021-05-20
   due:
-    - page: /investigations/investigation07.html
+    - page: /investigations/investigation06.html
